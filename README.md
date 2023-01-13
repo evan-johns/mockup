@@ -4,6 +4,6 @@ Code Quiz is used to assess a developer and their current abilities. It's been d
 
 ## Instructions
 
-1. Enter the `mockup/` directory.
+1. Enter the `/mockup` directory.
 2. Run `npm install`
 3. Run `npm run dev` to start the server. View at http://localhost:3000/
